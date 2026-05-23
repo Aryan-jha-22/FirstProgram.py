@@ -110,3 +110,7 @@ print("avg= ", (val1 + val2) / 2)
 a = int(input("first: ", ))
 b = int(input("second: ",))
 print(a >= b)
+print('''
+      multi line
+      comment
+      ''')

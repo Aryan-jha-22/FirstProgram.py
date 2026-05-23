@@ -42,7 +42,7 @@ elif(light == "yellow"):
     print("wait") #indentation
 else:
     print("light is broken")
-
+ 
 print("end of code")
 
 marks = input("enter marks")
@@ -58,9 +58,9 @@ print("grade of the student -> ", grade)
 age = 45
 if(age >= 28):
     if(age >= 45):
-        print("cannot drive")
-    else:
         print("can drive")
+    else:
+        print("cannot drive")
 else:
     print("cannot drive")
 
