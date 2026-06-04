@@ -40,7 +40,7 @@
 # def print_list(list):
 #     for item in list:
 #         print(item, end=" ")
-# print_list(cities)
+# print_list(heroes)
 # n = 5
 # fact = 1
 # for i in range(1, n+1):
